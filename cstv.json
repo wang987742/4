@@ -1,6 +1,6 @@
 ﻿
 {
-"spider":"clan://TVBox/0723.jar",
+"spider":"https://agit.ai/lytv/cstv/raw/branch/master/sq.jar",
 
 
 
@@ -9,9 +9,9 @@
 
 "sites":[
 
-{"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kuaikan","name": " 🎴33吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
+{"key":"ttzy", "name":"👰33天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
 
 ],
 
