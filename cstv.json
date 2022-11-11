@@ -11,6 +11,51 @@
 
 {"key": "Kuaikan","name": " 🎴33吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
+{"key":"T4_douban","name":"▎影视推荐 ▎","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
+   	{
+"key": "CZSPP",
+"name": "▎厂长影视  ▎",
+"type": 3,
+"api": "csp_Czsapp",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": ""
+},
+{
+"key":"Lgyy",
+"name":"▎蓝光影视 ▎",
+"type":3,
+"api":"csp_Lgyy",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"jar": "",
+"ext": ""
+},
+{
+"key": "4K",
+"name": "▎4K影视  ▎",
+"type": 3,
+"api": "csp_xBPQ",
+"filterable": 1,
+"quickSearch": 1,
+"searchable": 1,
+"playerType": 1,
+"jar": "http://47.242.90.42:8888/down/r3SL1ODR7qi2",
+"ext": "http://47.242.90.42:8888/down/ZhOsNeA58DtU"
+},
+{
+"key": "csp_DiDuan",
+"name": "▎低端影视  ▎",
+"type": 3,
+"api": "csp_Ddrk",
+"click": "ddys.tv;#vjsp > button",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": ""
+},
 {"key":"ttzy", "name":"👰33天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
 
 ],
